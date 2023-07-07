@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi there, I'm Anastasia 👋
-<h2 align="center">i'm studying Data Analysis and Machine Learning</h2>
+<h2 align="center">I'm studying Data Analysis and Machine Learning</h2>
 
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nastyaje)
